@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Effervecreanet
-- 👀 I’m interested in software engineering and programming.
+- 👀 I’m interested in software engineering and programming applied to systems, networks
+- and 3d printer.
 - 🌱 I’m currently learning let's encrypt protocol without success.
 - 💞️ I’m looking to collaborate on small C projects.
 - 📫 How to reach me: effervecreanet@gmail.com
